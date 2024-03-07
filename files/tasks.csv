@@ -1,0 +1,8 @@
+title|parenttask|maxxp
+CP_SimpleBashUtils||250
+CPP_s21_string+|CP_SimpleBashUtils|500
+CPP_s21_math|CP_SimpleBashUtils|300
+CPP_s21_decimal|CP_SimpleBashUtils|350
+CPP_s21_matrix|CPP_s21_decimal|200
+CPPP_SmartCalc_v1.0|CPP_s21_decimal|500
+CPPP_3DViewer_v1.0|CPPP_SmartCalc_v1.0|750
